@@ -3,7 +3,7 @@
     "name": "Truyện Chữ",
     "author": "vBook",
     "version": 6,
-    "source": "https://metruyenchu.vn",
+    "source": "https://metruyenchu.com.vn",
     "regexp": "(www.)?(truyenchu|metruyenchu).vn/[^/]+/?$",
     "description": "Đọc truyện trên trang Truyện Chữ",
     "locale": "vi_VN",
